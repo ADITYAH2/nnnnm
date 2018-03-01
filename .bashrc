@@ -121,12 +121,12 @@ clear
 echo "" | lolcat
 echo "" | lolcat
 echo "" | lolcat
-echo "      --[         SELAMAT DATANG  DI TeaM_CuCuatoK             ]--"| boxes -d peek | lolcat
+echo "      --[         SELAMAT DATANG  DI VPSPROJECT             ]--"| boxes -d peek | lolcat
 echo "         ====================================================="| lolcat
-echo "         #           WhatsApp     : +60175835809            #"| lolcat
-echo "         #           Telegram     : @CuCu_AtoK              #"| lolcat
+echo "         #           WhatsApp     : +0109475453             #"| lolcat
+echo "         #           Telegram     : @orangkuatsabahanterkini#"| lolcat
 echo "         #           GROUP        : -                       #"| lolcat
-echo "         #           Channel      : @CucuAtoK_TeaM          #"| lolcat
+echo "         #           Channel      : @newpremiumservice      #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
 echo "         #      Sila taip [menu] and ENTER untuk options    #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
